@@ -4,8 +4,5 @@
 # 忽略 out 文件夹
 out/
 
-# 忽略 lib 文件夹
-lib/
-
 # 忽略 .idea 文件夹
 *.idea/

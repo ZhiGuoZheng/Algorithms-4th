@@ -1,4 +1,4 @@
-package Ch1;
+package ch1;
 
 /**
  * Greatest Common Divisor

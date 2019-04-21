@@ -67,7 +67,7 @@ public class BinarySearch {
         Arrays.sort(whitelist);
         while (!StdIn.isEmpty()) {
             int key = StdIn.readInt();
-            // 不存在的话将 key 打印出来
+            // 将不在白名单中的数字打印出来
             if (rank(key, whitelist) == -1) {
                 StdOut.println(key);
             }
